@@ -115,7 +115,7 @@ view.jsp?cache=false&amp;display=file:/Path/to/Display+Builder/01_main.bob
 
 <p></p>
 
-<div id="info"><%="JRE: " + System.getProperty("java.vendor") + " " + System.getProperty("java.version") %></div>
+<div id="info"><%="JRE: " %></div>
 
 <hr>
 
